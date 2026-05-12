@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Emir Poyraz Polat
 
-<!--
-**EmirPolat75/EmirPolat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student in Poland  
+💻 Interested in Software Development, AI and Databases  
+🚀 Currently improving my programming skills through personal projects and continuous learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+
+I have basic/intermediate experience with:
+
+- Python
+- Java
+- PHP
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+- SentinelVault Security System
+- PHP Web Application
+- Weather App
+- Student Management System
+- ATM System (Java)
+
+---
+
+## 📫 Contact
+
+📧 emirler12polat@gmail.com
