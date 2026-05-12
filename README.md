@@ -4,7 +4,7 @@
 💻 Interested in Software Development, AI and Databases  
 🚀 Currently improving my programming skills through personal projects and continuous learning  
 
----
+----
 
 ## 🛠 Technologies & Tools
 
@@ -20,7 +20,7 @@ I have basic/intermediate experience with:
 - Git & GitHub
 - VS Code
 
----
+----
 
 ## 📌 Featured Projects
 
@@ -30,7 +30,7 @@ I have basic/intermediate experience with:
 - Student Management System
 - ATM System (Java)
 
----
+----
 
 ## 📫 Contact
 
